@@ -1,0 +1,15 @@
+C:\Users\armen.hovsepian\Documents\MyProjects\WpfDemos\WpfBroupBoxDemo\bin\Debug\WpfBroupBoxDemo.exe.config
+C:\Users\armen.hovsepian\Documents\MyProjects\WpfDemos\WpfBroupBoxDemo\bin\Debug\WpfBroupBoxDemo.exe
+C:\Users\armen.hovsepian\Documents\MyProjects\WpfDemos\WpfBroupBoxDemo\bin\Debug\WpfBroupBoxDemo.pdb
+C:\Users\armen.hovsepian\Documents\MyProjects\WpfDemos\WpfBroupBoxDemo\obj\Debug\WpfBroupBoxDemo.csprojAssemblyReference.cache
+C:\Users\armen.hovsepian\Documents\MyProjects\WpfDemos\WpfBroupBoxDemo\obj\Debug\MainWindow.g.cs
+C:\Users\armen.hovsepian\Documents\MyProjects\WpfDemos\WpfBroupBoxDemo\obj\Debug\App.g.cs
+C:\Users\armen.hovsepian\Documents\MyProjects\WpfDemos\WpfBroupBoxDemo\obj\Debug\WpfBroupBoxDemo_MarkupCompile.cache
+C:\Users\armen.hovsepian\Documents\MyProjects\WpfDemos\WpfBroupBoxDemo\obj\Debug\WpfBroupBoxDemo_MarkupCompile.lref
+C:\Users\armen.hovsepian\Documents\MyProjects\WpfDemos\WpfBroupBoxDemo\obj\Debug\MainWindow.baml
+C:\Users\armen.hovsepian\Documents\MyProjects\WpfDemos\WpfBroupBoxDemo\obj\Debug\WpfBroupBoxDemo.g.resources
+C:\Users\armen.hovsepian\Documents\MyProjects\WpfDemos\WpfBroupBoxDemo\obj\Debug\WpfBroupBoxDemo.Properties.Resources.resources
+C:\Users\armen.hovsepian\Documents\MyProjects\WpfDemos\WpfBroupBoxDemo\obj\Debug\WpfBroupBoxDemo.csproj.GenerateResource.cache
+C:\Users\armen.hovsepian\Documents\MyProjects\WpfDemos\WpfBroupBoxDemo\obj\Debug\WpfBroupBoxDemo.csproj.CoreCompileInputs.cache
+C:\Users\armen.hovsepian\Documents\MyProjects\WpfDemos\WpfBroupBoxDemo\obj\Debug\WpfBroupBoxDemo.exe
+C:\Users\armen.hovsepian\Documents\MyProjects\WpfDemos\WpfBroupBoxDemo\obj\Debug\WpfBroupBoxDemo.pdb

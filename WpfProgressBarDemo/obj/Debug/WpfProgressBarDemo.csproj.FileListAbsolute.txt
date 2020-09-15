@@ -1,0 +1,15 @@
+C:\Users\armen.hovsepian\Documents\MyProjects\WpfDemos\WpfProgressBarDemo\bin\Debug\WpfProgressBarDemo.exe.config
+C:\Users\armen.hovsepian\Documents\MyProjects\WpfDemos\WpfProgressBarDemo\bin\Debug\WpfProgressBarDemo.exe
+C:\Users\armen.hovsepian\Documents\MyProjects\WpfDemos\WpfProgressBarDemo\bin\Debug\WpfProgressBarDemo.pdb
+C:\Users\armen.hovsepian\Documents\MyProjects\WpfDemos\WpfProgressBarDemo\obj\Debug\WpfProgressBarDemo.csprojAssemblyReference.cache
+C:\Users\armen.hovsepian\Documents\MyProjects\WpfDemos\WpfProgressBarDemo\obj\Debug\MainWindow.g.cs
+C:\Users\armen.hovsepian\Documents\MyProjects\WpfDemos\WpfProgressBarDemo\obj\Debug\App.g.cs
+C:\Users\armen.hovsepian\Documents\MyProjects\WpfDemos\WpfProgressBarDemo\obj\Debug\WpfProgressBarDemo_MarkupCompile.cache
+C:\Users\armen.hovsepian\Documents\MyProjects\WpfDemos\WpfProgressBarDemo\obj\Debug\WpfProgressBarDemo_MarkupCompile.lref
+C:\Users\armen.hovsepian\Documents\MyProjects\WpfDemos\WpfProgressBarDemo\obj\Debug\MainWindow.baml
+C:\Users\armen.hovsepian\Documents\MyProjects\WpfDemos\WpfProgressBarDemo\obj\Debug\WpfProgressBarDemo.g.resources
+C:\Users\armen.hovsepian\Documents\MyProjects\WpfDemos\WpfProgressBarDemo\obj\Debug\WpfProgressBarDemo.Properties.Resources.resources
+C:\Users\armen.hovsepian\Documents\MyProjects\WpfDemos\WpfProgressBarDemo\obj\Debug\WpfProgressBarDemo.csproj.GenerateResource.cache
+C:\Users\armen.hovsepian\Documents\MyProjects\WpfDemos\WpfProgressBarDemo\obj\Debug\WpfProgressBarDemo.csproj.CoreCompileInputs.cache
+C:\Users\armen.hovsepian\Documents\MyProjects\WpfDemos\WpfProgressBarDemo\obj\Debug\WpfProgressBarDemo.exe
+C:\Users\armen.hovsepian\Documents\MyProjects\WpfDemos\WpfProgressBarDemo\obj\Debug\WpfProgressBarDemo.pdb
